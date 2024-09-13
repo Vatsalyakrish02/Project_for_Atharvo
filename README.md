@@ -1,16 +1,18 @@
-#🐕 Dog Breed Identification Project
+# 🐕 Dog Breed Identification Project
 This repository contains the code for a machine learning model designed to classify dog breeds from images. The project is based on the Kaggle Dog Breed Identification competition.
 
-#📖 Overview
+# 📖 Overview
 The goal of this project is to build a model that can identify 120 different breeds of dogs from images. It uses a Convolutional Neural Network (CNN) trained on a dataset of dog images provided by the Kaggle competition. The model is built using popular deep learning frameworks such as TensorFlow and Keras.
 
-#🎯 Objective
+# 🎯 Objective
 The main objectives of the project include:
 
 Building a model that can predict the breed of a dog based on an image.
 Implementing image preprocessing techniques.
 Improving model performance using transfer learning and fine-tuning.
+
 📂 Project Structure
+
 bash
 ├── dog_photos/                                                           # Contains photos of dog for prediction
 ├── log/                                                                  # Contains TensorBoard logs
@@ -60,7 +62,7 @@ Copy code
 python app.py
 Then, open your browser and go to http://127.0.0.1:5000/ to interact with the app.
 
-⚙️ Features
+# ⚙️ Features
 Preprocessing: Data augmentation, resizing images, and normalization.
 Model: CNN-based model using transfer learning.
 Web Interface: Upload an image of a dog and get the predicted breed.
