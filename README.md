@@ -42,9 +42,10 @@ bash
 
 ├── pre_processing.py                                                     # Python file for EDA 
 
-└── tempCodeRunnerFile.py                                                 # Python Cache file
+├── tempCodeRunnerFile.py                                                 # Python Cache file
 
 └── requirements.txt                                                      # Python dependencies
+
 
 # 🚀 Getting Started
 
