@@ -14,7 +14,7 @@ Building a model that can predict the breed of a dog based on an image.
 Implementing image preprocessing techniques.
 Improving model performance using transfer learning and fine-tuning.
 
-📂 Project Structure
+# 📂 Project Structure
 
 bash
 
