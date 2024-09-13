@@ -70,11 +70,11 @@ pip install -r requirements.txt
 Downloaded the dataset from the Kaggle Dog Breed Identification competition.
 Extract the data into the Project_for_Atharvo/ .
 Training the Model
-To train the model, navigate to the notebooks/ directory and run the Jupyter notebook for model training:
+To train the model, navigate to the dog-vision.ipynb and run the Jupyter notebook for model training:
 
 bash
 
-jupyter notebook notebooks/train_model.ipynb
+jupyter notebook dog-vision.ipynb
 
 The notebook covers:
 
