@@ -29,7 +29,7 @@ bash
 └── tempCodeRunnerFile.py                                                 # Python Cache file
 └── requirements.txt                                                      # Python dependencies
 
-#🚀 Getting Started
+# 🚀 Getting Started
 Prerequisites
 Python 3.x
 TensorFlow, Keras
@@ -67,17 +67,13 @@ Preprocessing: Data augmentation, resizing images, and normalization.
 Model: CNN-based model using transfer learning.
 Web Interface: Upload an image of a dog and get the predicted breed.
 Transfer Learning: Incorporates models like ResNet and VGG for better accuracy.
-🧪 Evaluation
-The model is evaluated using accuracy metrics. Below are some results:
 
-Training accuracy: 90%
-Validation accuracy: 88%
-Top-5 accuracy: 96%
-📝 Future Improvements
+# 📝 Model Deployment and Improvements
 Fine-tuning the model for better generalization.
 Testing on larger image datasets.
-Optimizing the Flask web app for faster predictions.
-🔗 References
+Optimized the Flask web app for faster predictions.
+
+# 🔗 References
 Kaggle Dog Breed Identification Competition: https://www.kaggle.com/c/dog-breed-identification
 TensorFlow Documentation: https://www.tensorflow.org/
 Flask Documentation: https://flask.palletsprojects.com/
