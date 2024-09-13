@@ -49,15 +49,19 @@ bash
 # 🚀 Getting Started
 
 Prerequisites
+
 Python 3.x
+
 TensorFlow, Keras
+
 Flask (for web deployment)
+
 OpenCV, Pillow (for image processing)
+
 To install the required Python packages, run:
 
 bash
 
-Copy code
 pip install -r requirements.txt
 
 # Dataset
@@ -74,14 +78,19 @@ jupyter notebook notebooks/train_model.ipynb
 The notebook covers:
 
 Data loading and preprocessing
-CNN architecture and transfer learning using pre-trained models like ResNet or VGG
+
+CNN architecture and transfer learning using pre-trained models like ResNet or MobileNet V2
+
 Model training and evaluation
+
 Running the Web Application
+
 The project includes a Flask-based web interface where users can upload an image of a dog, and the model will predict the breed. To run the web app:
 
 bash
 
 python app.py
+
 Then, open your browser and go to http://127.0.0.1:5000/ to interact with the app.
 
 # ⚙️ Features
@@ -96,6 +105,9 @@ Testing on larger image datasets.
 Optimized the Flask web app for faster predictions.
 
 # 🔗 References
+
 Kaggle Dog Breed Identification Competition: https://www.kaggle.com/c/dog-breed-identification
+
 TensorFlow Documentation: https://www.tensorflow.org/
+
 Flask Documentation: https://flask.palletsprojects.com/
