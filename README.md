@@ -30,7 +30,7 @@ bash
 
 ├── train/                                                                # Contains the dataset (train data)
 
-├── README.md                                                             # # Project overview (this file)
+├── README.md                                                             # Project overview (this file)
 
 ├── app.py                                                                # Main file to run the web application
 
@@ -93,7 +93,7 @@ Then, open your browser and go to http://127.0.0.1:5000/ to interact with the ap
 * Preprocessing: Data augmentation, resizing images, and normalization.
 * Model: CNN-based model using transfer learning.
 * Web Interface: Upload an image of a dog and get the predicted breed.
-* Transfer Learning: Incorporates models like ResNet and VGG for better accuracy.
+* Transfer Learning: Incorporates models like MobileNet V2 and RESNET for better accuracy.
 
 # 📝 Model Deployment and Improvements
 * Fine-tuning the model for better generalization.
